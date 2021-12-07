@@ -1,0 +1,3 @@
+const DEFAULT_PORT = 3000;
+
+exports.DEFAULT_PORT = DEFAULT_PORT;
